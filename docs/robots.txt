@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.hardikp.com/comics/sitemap.xml
+Sitemap: https://comics.hardikp.com/sitemap.xml
