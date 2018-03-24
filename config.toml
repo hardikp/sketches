@@ -5,6 +5,7 @@ title = "Comics by Hardik"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
+publishDir = "docs"
 
 paginate = 5
 googleAnalytics = ""      # UA-XXXXXXXX-X
