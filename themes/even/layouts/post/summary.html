@@ -20,9 +20,7 @@
   <div class="post-content">
     <div class="post-summary">
       {{ .Summary }}
-    </div>
-    <div class="read-more">
-      <a href="{{ .URL }}" class="read-more-link">{{ T "readMore" }}</a>
+      <img src="{{ .Params.img_url }}">
     </div>
   </div>
 </article>

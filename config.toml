@@ -7,7 +7,7 @@ enableEmoji = true
 theme = "even"
 publishDir = "docs"
 
-paginate = 5
+paginate = 1
 copyright = ""            # default: author.name ↓
 
 [author]                  # essential
