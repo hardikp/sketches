@@ -8,7 +8,7 @@ theme = "even"
 publishDir = "docs"
 
 paginate = 1
-copyright = ""            # default: author.name ↓
+googleAnalytics = "UA-79877480-2"
 
 [author]                  # essential
   name = "Hardik Patel"
