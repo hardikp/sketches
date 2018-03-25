@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comics by Hardik</title>
-    <link>https://comics.hardikp.com/</link>
-    <description>Recent content on Comics by Hardik</description>
+    <title>Hardik&#39;s Sketches</title>
+    <link>https://sketches.hardikp.com/</link>
+    <description>Recent content on Hardik&#39;s Sketches</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Mar 2018 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://comics.hardikp.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sketches.hardikp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://comics.hardikp.com/about/</link>
+      <link>https://sketches.hardikp.com/about/</link>
       <pubDate>Sat, 24 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://comics.hardikp.com/about/</guid>
+      <guid>https://sketches.hardikp.com/about/</guid>
       <description>I am Hardik Patel. I work at the intersection of Finance and Computer Science. I am interested in exploring how Finance, Biotech and other disciplines can benefit from the application of Computer Science advances.
 I received my BS and MS in Computer Science from IIT Kanpur in 2012. I worked in Microsoft&amp;rsquo;s Visual Studio division for 1.5 years after that. I left Microsoft to spend the next 2 years in High Frequency Trading.</description>
     </item>
     
     <item>
       <title>Paris - March 2018</title>
-      <link>https://comics.hardikp.com/post/3/</link>
+      <link>https://sketches.hardikp.com/post/3/</link>
       <pubDate>Wed, 21 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://comics.hardikp.com/post/3/</guid>
+      <guid>https://sketches.hardikp.com/post/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adulthood</title>
-      <link>https://comics.hardikp.com/post/2/</link>
+      <link>https://sketches.hardikp.com/post/2/</link>
       <pubDate>Fri, 09 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://comics.hardikp.com/post/2/</guid>
+      <guid>https://sketches.hardikp.com/post/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning in Finance</title>
-      <link>https://comics.hardikp.com/post/1/</link>
+      <link>https://sketches.hardikp.com/post/1/</link>
       <pubDate>Sun, 11 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://comics.hardikp.com/post/1/</guid>
+      <guid>https://sketches.hardikp.com/post/1/</guid>
       <description></description>
     </item>
     
