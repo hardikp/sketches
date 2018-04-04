@@ -20,6 +20,4 @@ hiddenFromHomePage: false
 contentCopyright: false
 mathjax: false
 mathjaxEnableSingleDollar: false
-
-img_url: ""
 ---
