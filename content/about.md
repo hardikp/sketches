@@ -3,7 +3,7 @@ title: "About"
 date: 2018-03-24 11:00:00
 lastmod: 2018-03-24 11:00:00
 menu: "main"
-weight: 50
+weight: 20
 ---
 
 I am **Hardik Patel**. I work at the intersection of Finance and Computer Science. I am interested in exploring how Finance, Biotech and other disciplines can benefit from the application of Computer Science advances.
