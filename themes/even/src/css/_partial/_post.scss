@@ -19,4 +19,17 @@
   @import '_post/content';
   @import '_post/copyright';
   @import '_post/footer';
+
+  .share {
+    display:block;
+    width:100%;
+    text-align:center;
+
+    font-weight: 600;
+    font-size: $post-nav-font-size;
+    font-family: $global-serif-font-family;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+    transition-duration: 0.3s;
+  }
 }

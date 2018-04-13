@@ -28,16 +28,30 @@
       {{ .Content }}
     </div>
 
-    <div class="share-page">
-      Share this on:
-      <a href="https://twitter.com/intent/tweet?text={{ .Title }}&amp;url={{ .Permalink }}&amp;via={{ .Site.Social.twitter }}&amp;related={{ .Site.Social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> |
-      <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a> |
-      <a href="https://plus.google.com/share?url={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a> |
-      <a href="http://www.reddit.com/submit?url={{ .Permalink }}&amp;title={{ .Title }}" rel="nofollow" target="_blank" title="Share on Reddit">Reddit</a> |
-      <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Permalink }}&amp;title={{ .Title }}&amp;summary={{ .Title }}&amp;source={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Linkedin">Linkedin</a> |
-      <a href="//www.stumbleupon.com/submit?url={{ .Permalink }}&amp;title={{ .Title }}" target="_blank" title="Share on StumbleUpon">StumbleUpon</a> |
-      <a href="//www.pinterest.com/pin/create/button/?url={{ .Permalink }}&amp;description={{ .Title }}" target="_blank" title="Share on Pinterest">Pinterest</a> |
-      <a href="mailto:?subject=Check out this sketch by {{ .Site.Author.name }}: {{ .Title }}&amp;body={{ .Title }}: {{ .Permalink }}" target="_blank" title="Email">Email</a>
+    <div class="share">
+      <span class="prev-text nav-default">Share:</span>
+
+      <a href="https://twitter.com/intent/tweet?text={{ .Title }}&amp;url={{ .Permalink }}&amp;via={{ .Site.Social.twitter }}&amp;related={{ .Site.Social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Facebook">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="https://plus.google.com/share?url={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Google+">
+        <i class="fa fa-google-plus"></i>
+      </a>
+      <a href="http://www.reddit.com/submit?url={{ .Permalink }}&amp;title={{ .Title }}" rel="nofollow" target="_blank" title="Share on Reddit">
+        <i class="fa fa-reddit-alien"></i>
+      </a>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Permalink }}&amp;title={{ .Title }}&amp;summary={{ .Title }}&amp;source={{ .Permalink }}" rel="nofollow" target="_blank" title="Share on Linkedin">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a href="//www.pinterest.com/pin/create/button/?url={{ .Permalink }}&amp;description={{ .Title }}" target="_blank" title="Share on Pinterest">
+        <i class="fa fa-pinterest-p"></i>
+      </a>
+      <a href="mailto:?subject=Check out this sketch by {{ .Site.Author.name }}: {{ .Title }}&amp;body={{ .Title }}: {{ .Permalink }}" target="_blank" title="Email">
+        <i class="fa fa-envelope"></i>
+      </a>
     </div>
 
     <!-- Copyright -->
@@ -61,6 +75,7 @@
             <span class="prev-text nav-mobile">{{ T "prevPost" }}</span>
           </a>
         {{- end }}
+
         {{ with .PrevInSection }}
           <a class="next" href="{{ .URL }}">
             <span class="next-text nav-default">{{ .Title }}</span>
