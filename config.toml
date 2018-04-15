@@ -7,6 +7,7 @@ enableEmoji = true
 theme = "even"
 publishDir = "docs"
 RSSLink = "https://sketches.hardikp.com/index.xml"
+canonifyurls = false
 
 paginate = 1
 googleAnalytics = "UA-79877480-2"
