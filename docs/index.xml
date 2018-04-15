@@ -1,95 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hardik&#39;s Sketches</title>
-    <link>https://sketches.hardikp.com/</link>
-    <description>Recent content on Hardik&#39;s Sketches</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 24 Mar 2018 11:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sketches.hardikp.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://sketches.hardikp.com/about/</link>
-      <pubDate>Sat, 24 Mar 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/about/</guid>
-      <description>I am Hardik Patel. I work at the intersection of Finance and Computer Science. I am interested in exploring how Finance, Biotech and other disciplines can benefit from the application of Computer Science advances.
-I received my BS and MS in Computer Science from IIT Kanpur in 2012. I worked in Microsoft&amp;rsquo;s Visual Studio division for 1.5 years after that. I left Microsoft to spend the next 2 years in High Frequency Trading.</description>
-    </item>
-    
-    <item>
-      <title>Deciding Dinner</title>
-      <link>https://sketches.hardikp.com/post/7/</link>
-      <pubDate>Tue, 10 Apr 2018 22:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/7.jpg&#34; alt=&#34;Deciding Dinner&#34; title=&#34;My goal is to not put too much effort into preparing a meal. Decision time turns out to be much more than the meal preparation time.&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Where Do People Watch Netflix?</title>
-      <link>https://sketches.hardikp.com/post/6/</link>
-      <pubDate>Thu, 05 Apr 2018 22:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/6/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/6.jpg&#34; alt=&#34;Where Do People Watch Netflix?&#34; title=&#34;Netflix would be one of the biggest beneficiary of self-driving cars. So much more time for Netflix for millions of people everyday!&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Microbes and Weight!</title>
-      <link>https://sketches.hardikp.com/post/5/</link>
-      <pubDate>Wed, 04 Apr 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/5.jpg&#34; alt=&#34;Microbes and Weight!&#34; title=&#34;I wonder if it&#39;s possible to tweak my microbes to achieve better memory.&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shrinking Microbial Diversity</title>
-      <link>https://sketches.hardikp.com/post/4/</link>
-      <pubDate>Wed, 04 Apr 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/4.jpg&#34; alt=&#34;Shrinking Microbial Diversity&#34; title=&#34;I wonder what Germophobics think of the trillions of microbes living in each of them.&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Paris - March 2018</title>
-      <link>https://sketches.hardikp.com/post/3/</link>
-      <pubDate>Wed, 21 Mar 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/3.jpg&#34; alt=&#34;Paris - March 2018&#34; title=&#34;Vacations are the best!&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Adulthood</title>
-      <link>https://sketches.hardikp.com/post/2/</link>
-      <pubDate>Fri, 09 Mar 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/2.png&#34; alt=&#34;Adulthood&#34; title=&#34;Realizing that I actually like more responsibilities has been one of the mysterious aspects of my adult life.&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning in Finance</title>
-      <link>https://sketches.hardikp.com/post/1/</link>
-      <pubDate>Sun, 11 Feb 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://sketches.hardikp.com/post/1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sketches.hardikp.com/images/1.jpg&#34; alt=&#34;Machine Learning in Finance&#34; title=&#34;ML in Finance is not that hard to be honest.&#34; /&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hardik&#39;s Sketches on Hardik&#39;s Sketches</title>
+  <link rel="self" href="https://sketches.hardikp.com/"/>
+  <updated>2018-03-24T11:00:00+0000</updated>
+  <author>
+    <name>Hardik Patel</name>
+    <email>hi@hardikp.com</email>
+    <uri>https://sketches.hardikp.com/</uri>
+  </author>
+  <id>https://sketches.hardikp.com/</id>
+  
+  
+  
+  
+  <entry>
+    <title>Deciding Dinner</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/7/"/>
+    <id>https://sketches.hardikp.com/post/7/</id>
+    <published>2018-04-10T22:00:00+0000</published>
+    <updated>2018-04-10T22:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/7.jpg&#34; alt=&#34;Deciding Dinner&#34; title=&#34;My goal is to not put too much effort into preparing a meal. Decision time turns out to be much more than the meal preparation time.&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/7.jpg&#34; alt=&#34;Deciding Dinner&#34; title=&#34;My goal is to not put too much effort into preparing a meal. Decision time turns out to be much more than the meal preparation time.&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Where Do People Watch Netflix?</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/6/"/>
+    <id>https://sketches.hardikp.com/post/6/</id>
+    <published>2018-04-05T22:00:00+0000</published>
+    <updated>2018-04-05T22:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/6.jpg&#34; alt=&#34;Where Do People Watch Netflix?&#34; title=&#34;Netflix would be one of the biggest beneficiary of self-driving cars. So much more time for Netflix for millions of people everyday!&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/6.jpg&#34; alt=&#34;Where Do People Watch Netflix?&#34; title=&#34;Netflix would be one of the biggest beneficiary of self-driving cars. So much more time for Netflix for millions of people everyday!&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Microbes and Weight!</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/5/"/>
+    <id>https://sketches.hardikp.com/post/5/</id>
+    <published>2018-04-04T12:00:00+0000</published>
+    <updated>2018-04-04T12:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/5.jpg&#34; alt=&#34;Microbes and Weight!&#34; title=&#34;I wonder if it&#39;s possible to tweak my microbes to achieve better memory.&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/5.jpg&#34; alt=&#34;Microbes and Weight!&#34; title=&#34;I wonder if it&#39;s possible to tweak my microbes to achieve better memory.&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Shrinking Microbial Diversity</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/4/"/>
+    <id>https://sketches.hardikp.com/post/4/</id>
+    <published>2018-04-04T11:00:00+0000</published>
+    <updated>2018-04-04T11:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/4.jpg&#34; alt=&#34;Shrinking Microbial Diversity&#34; title=&#34;I wonder what Germophobics think of the trillions of microbes living in each of them.&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/4.jpg&#34; alt=&#34;Shrinking Microbial Diversity&#34; title=&#34;I wonder what Germophobics think of the trillions of microbes living in each of them.&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Paris - March 2018</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/3/"/>
+    <id>https://sketches.hardikp.com/post/3/</id>
+    <published>2018-03-21T11:00:00+0000</published>
+    <updated>2018-03-21T11:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/3.jpg&#34; alt=&#34;Paris - March 2018&#34; title=&#34;Vacations are the best!&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/3.jpg&#34; alt=&#34;Paris - March 2018&#34; title=&#34;Vacations are the best!&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Adulthood</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/2/"/>
+    <id>https://sketches.hardikp.com/post/2/</id>
+    <published>2018-03-09T11:00:00+0000</published>
+    <updated>2018-03-09T11:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/2.png&#34; alt=&#34;Adulthood&#34; title=&#34;Realizing that I actually like more responsibilities has been one of the mysterious aspects of my adult life.&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/2.png&#34; alt=&#34;Adulthood&#34; title=&#34;Realizing that I actually like more responsibilities has been one of the mysterious aspects of my adult life.&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Machine Learning in Finance</title>
+    <link rel="alternate" href="https://sketches.hardikp.com/post/1/"/>
+    <id>https://sketches.hardikp.com/post/1/</id>
+    <published>2018-02-11T11:00:00+0000</published>
+    <updated>2018-02-11T11:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;img src=&#34;/images/1.jpg&#34; alt=&#34;Machine Learning in Finance&#34; title=&#34;ML in Finance is not that hard to be honest.&#34; /&gt;
+&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;img src=&#34;/images/1.jpg&#34; alt=&#34;Machine Learning in Finance&#34; title=&#34;ML in Finance is not that hard to be honest.&#34; /&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  
+</feed>
