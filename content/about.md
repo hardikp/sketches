@@ -7,16 +7,21 @@ weight: 20
 private: True
 ---
 
-I am **Hardik Patel**. I work at the intersection of Finance and Computer Science. I am interested in exploring how Finance, Biotech and other disciplines can benefit from the application of Computer Science advances.
+I am **Hardik Patel**. I work at the intersection of Finance and Computer Science. I recently started in sketching stick figures on my spare time. This is where most of my sketches/comics are hosted.
 
-I received my BS and MS in Computer Science from [IIT Kanpur](https://www.cse.iitk.ac.in/) in 2012. I worked in Microsoft's Visual Studio division for 1.5 years after that. I left Microsoft to spend the next 2 years in High Frequency Trading. I have been working at [qplum](https://www.qplum.co/) since August 2015.
+Sketches and comics on this website are heavily inspired by [xkcd](https://xkcd.com/). Other inspirations include:
+
+* [PHD comics](http://phdcomics.com/)
+* [The Oatmeal](http://theoatmeal.com/comics)
 
 ### Links
 
-* I blog about book summaries and other random subjects here - [https://medium.com/@hardikp](https://medium.com/@hardikp)
+* Technical blog - [https://www.hardikp.com](https://www.hardikp.com)
 * I tweet/retweet sometimes - [https://twitter.com/hardikp](https://twitter.com/hardikp).
 * [Github](https://github.com/hardikp)
 * [Linkedin](https://www.linkedin.com/in/hardikp12)
 * [Quora](https://www.quora.com/profile/Hardik-Patel-8)
 * [SSH Keys](https://github.com/hardikp.keys). [GPG](https://keybase.io/hardikp).
 * Email: hardikp12@gmail.com
+
+<img width="400px" src="/images/me.jpg">
