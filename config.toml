@@ -63,7 +63,7 @@ googleAnalytics = "UA-79877480-2"
   description = "Hardik's short comics and sketches"
 
   # paginate of archives, tags and categories
-  archivePaginate = 5
+  archivePaginate = 50
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
